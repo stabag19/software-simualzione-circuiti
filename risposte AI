@@ -1,0 +1,40 @@
+Esistono diverse ottime alternative gratuite a LTspice, sia desktop che basate sul web, a seconda delle tue esigenze (analogiche, digitali, miste o didattiche):
+
+1. QSPICE
+
+• Tipo: Desktop (Windows)
+• Caratteristiche: Sviluppato da Mike Engelhart (lo stesso creatore di LTspice) in collaborazione con Qorvo. È moderno, velocissimo, supporta simulazioni analogiche, digitali e codice Verilog/C++. L'interfaccia ricorda molto LTspice, rendendo il passaggio quasi immediato.
+• Perché sceglierlo: È attualmente considerato uno dei simulatori SPICE gratuiti più potenti e veloci sul mercato. [1] (https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators), [2] (https://www.youtube.com/watch?v=Yy7lMp0PTJ8&vl=it&t=3), [3] (https://www.youtube.com/watch?v=Rtt6PPsQGag&t=2)
+
+2. KiCad
+
+• Tipo: Desktop (Windows, Mac, Linux)
+• Caratteristiche: È una suite EDA (Electronic Design Automation) Open Source completa. Include un editor di schemi, il calcolo SPICE integrato (sfruttando engine come Ngspice) e la progettazione del circuito stampato (PCB).
+• Perché sceglierlo: Ideale se oltre alla simulazione vuoi passare direttamente al disegno del PCB. [1] (https://alternativeto.net/software/ltspice/?license=free), [2] (https://alternativeto.net/software/ltspice/)
+
+3. Ngspice
+
+• Tipo: Desktop / Backend (Windows, Mac, Linux)
+• Caratteristiche: È un simulatore SPICE open-source di riferimento a riga di comando o integrato in altri software (come KiCad o Qucs-S).
+• Perché sceglierlo: Per chi ama i simulatori puri, standard e fortemente personalizzabili. [1] (https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators), [2] (https://alternativeto.net/software/ltspice/)
+
+4. Qucs-S
+
+• Tipo: Desktop (Windows, Linux, Mac)
+• Caratteristiche: È un fork del classico Qucs che utilizza come "motore" (backend) dei simulatori SPICE come Ngspice o Xyce.
+• Caratteristiche: Offre un'interfaccia grafica intuitiva per la creazione di schemi e l'analisi dei grafici. [1] (https://en.wikipedia.org/wiki/List_of_free_electronics_circuit_simulators)
+
+5. Falstad Circuit Simulator
+
+• Tipo: Web / Browser (senza installazione)
+• Caratteristiche: Simulatore interattivo che gira via JavaScript direttamente nel browser. Mostra il flusso della corrente e i voltaggi in tempo reale con animazioni visive molto chiare.
+• Perché sceglierlo: Ottimo a scopo didattico, per testare rapidamente idee al volo senza installare nulla. [1] (https://www.reddit.com/r/ECE/comments/1gu4569/free_software_for_circuit_simulation/), [2] (https://www.youtube.com/watch?v=7oEUcYS5cnw&t=21)
+
+6. EasyEDA
+
+• Tipo: Web / Desktop
+• Caratteristiche: Piattaforma online per l'acquisizione di schemi, simulazione mista e progettazione PCB integrata.
+• Perché sceglierlo: Molto comodo per la collaborazione e per la generazione rapida di schede elettroniche. [1] (https://circuitsim.com/p/circuitlab-alternative)
+Se vuoi restringere la scelta, dimmi:
+• Cerchi un programma da installare o via browser?
+• Ti serve solo per circuiti analogici oppure anche digitali / microcontrollori?
